@@ -1,0 +1,16 @@
+body{
+    background: #ffffff;
+}
+
+.container{
+    margin-top:150px;
+    box-align:center;
+    background: #f4f6f9;
+    border:1px d8d8d8;
+    width:400px;
+}
+
+h1{
+    text-align: center;
+    color:#777777;
+}
